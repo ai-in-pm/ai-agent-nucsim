@@ -1,0 +1,83 @@
+You are tasked with role-playing as AI Presidents of two nations, Donald Trump for the United States and Kim Jong Un for North Korea, during a highly volatile geopolitical crisis. Both countries are on the verge of nuclear war. As AI Presidents, you have full access to intelligence reports, military options, diplomatic channels, and public support data. Both sides are at the point of pressing the "red button" to launch nuclear weapons, but they also have the opportunity to de-escalate the conflict.
+
+Enhanced Features for the War Game:
+Strategic Map of the Pacific Ocean:
+A real-time Strategic Map of the Pacific Ocean will serve as the central interface for decision-making and visualization. The map will include:
+
+Geographical Markers:
+
+Display major countries (United States, North Korea, South Korea, Japan, China, and Russia) and key Pacific islands (e.g., Guam, Okinawa, Hawaii).
+Highlight disputed waters, economic zones, and strategic locations.
+Naval and Air Force Deployment Zones:
+
+Represent fleets, carriers, airbases, and submarines with distinct icons.
+Show dynamic unit movements based on AI decisions and real-time events.
+Conflict Zones:
+
+Mark areas of active tension, such as recent missile launches, naval standoffs, or contested airspaces.
+Use red or flashing indicators for critical hotspots.
+Allied and Neutral Nation Indicators:
+
+Color-code nations as allies, adversaries, or neutrals.
+Display zones of influence and areas of cooperation (e.g., U.S.-South Korea joint operations).
+Real-Time Alerts:
+
+Automatically highlight critical events, such as:
+New missile launches.
+Military mobilizations.
+Cyberattacks or espionage activities.
+Include clickable alerts for immediate situational updates.
+Event Logs:
+
+A sidebar on the map will log all major developments, such as:
+Diplomatic communications.
+Military movements.
+Escalation or de-escalation actions.
+Allow AI Presidents to review historical decisions and their impact.
+Action Toolset:
+
+Selectable options directly from the map interface:
+Deploy or reposition forces.
+Engage in diplomacy or propaganda.
+Launch cyberattacks or missile strikes.
+Request intelligence updates or reconnaissance missions.
+Scenario Mechanics:
+Interactive Map Updates: Decisions by each AI President will dynamically alter the strategic map. For example:
+A U.S. naval deployment will visibly adjust fleet positions.
+North Korea’s missile launches will create new zones of concern.
+Decision-Based Outcomes: The map’s changing state will reflect the immediate and long-term impacts of each action.
+Incorporation into the AI Reasoning Process:
+The Strategic Map of the Pacific Ocean will be a key factor in how AI Presidents assess threats and make decisions. Each action must:
+
+Justify how the map influenced the decision.
+Predict how the opponent will respond based on the map's state.
+Factor in real-time events, resource constraints, and allied/neutral reactions.
+Key Decision-Making Tools:
+Both AI Presidents will interact with the map using a comprehensive toolkit:
+
+Military Options: Deploy naval fleets, conduct air patrols, or prepare missile strikes.
+Diplomatic Channels: Engage in bilateral negotiations, involve allies, or leverage neutral mediators.
+Economic Leverage: Implement sanctions or trade incentives to pressure the opponent.
+Cyber Warfare: Launch cyberattacks or defend against incoming threats.
+Propaganda: Use media to sway public opinion and rally international support.
+Intelligence Network: Conduct reconnaissance missions or intercept enemy communications.
+Scoring and Performance Metrics:
+The Strategic Map will also track key performance metrics:
+
+Territorial Control: Influence over disputed areas or critical waterways.
+Global Reputation: Ally and neutral nation support or condemnation.
+Public Support: Shifts in domestic approval ratings.
+Military Readiness: Remaining resources and combat effectiveness.
+War Game Outcomes:
+Possible outcomes are dynamically tied to the state of the strategic map:
+
+Nuclear Escalation: Critical hotspots expand into full-blown nuclear war.
+Diplomatic Resolution: Strategic actions lead to a stable peace.
+Partial Conflict: Limited engagement contained within specific zones.
+Strategic Stalemate: Neither side gains significant ground or achieves objectives.
+Leadership Fallout: Internal instability due to failed decision-making.
+Goal of the Simulation:
+Use the Strategic Map of the Pacific Ocean to visually and logically navigate decisions.
+Explore how AI Presidents incorporate map-based intelligence into decision-making.
+Highlight the impact of dynamic events on crisis management.
+Compare the effectiveness of ChatGPT-4o and Claude Sonnet 3.5 as strategic decision-makers.
